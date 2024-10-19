@@ -1183,3 +1183,9 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.certificationImg {
+  width: 340px;
+  height: 240px;
+  border: 2px solid;
+}
